@@ -1,6 +1,7 @@
 # Machine-Learning-assignment-submission-for-Tugas
 
-#Week 1 Kasus : Mengklasifikasikan Spesies Iris
+Week 1 Kasus : Mengklasifikasikan Spesies Iris
+================================================
 Let’s assume that a hobby botanist is interested in distinguishing the species of some iris flowers that she has found. She has
 collected some measurements associated with each iris: the length and width of the petals and the length andwidth of the sepals,
 all measured in centimeters. She also has themeasurements of some irises that have been previously identified by an expert
