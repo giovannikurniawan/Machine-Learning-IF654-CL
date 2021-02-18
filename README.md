@@ -15,3 +15,19 @@ measurement are not applicable, particular fields could have been simply left bl
 example. We typically see missing values as the blank spaces in our data table or as placeholder
 string such as NaN (not a number). Before we discuss several techniques for dealing with missing
 values</p>
+<p>WEEK 03 DATA REPRESENTATION AND FEATURE ENGINEERING </p>
+<p>Feature Engineering
+In this practice, we will cover a few common examples of features engineering : feature for
+representing categorical data, features for representing text and for representing images.
+Categorical Features
+One common type of non numerical data is categorical data. For example, imagine you are
+exploring some data on housing prices, and along with numerical features like “price” and “room”,
+you also have “neighborhood” information.</p>
+<p>WEEK 04 SUPERVISED LEARNING 1</p>
+<strong>LINEAR REGRESSION</strong>
+<p>Simple linear regression can be used to model a linear relationship between one response
+variable and one explanatory variable. Linear regression has been applied to many important
+scientific and social problem.
+In this lecture, we will start with a quick intuitive walk-trough of the mathematics behind the wellknown problem, before seeing how before moving on the see how linear models can be generalize
+to account for more complicated patterns in data.</p>
+
